@@ -1,11 +1,9 @@
 body {
-    color: red;
+    background: gainsboro;
     width: 500px;
     margin: auto;
 }
 h1{
     font-size: 30px;
-}
-body p {
-    font-size: 20px;
+    color: rebeccapurple;
 }
