@@ -1,3 +1,7 @@
 body {
     color: red;
+    background: gainsboro;
+}
+h1{
+    font-size: 50px;
 }
